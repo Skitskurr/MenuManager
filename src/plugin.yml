@@ -1,0 +1,6 @@
+main: com.skitskurr.menumanager.Main
+name: MenuManager
+version: 1.0
+description: A management plugin for menus.
+api-version: 1.15
+author: Skitskurr
