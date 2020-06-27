@@ -17,7 +17,7 @@ import org.bukkit.event.player.PlayerQuitEvent;
 
 import com.skitskurr.menumanager.utils.MetadataUtils;
 
-import net.minecraft.server.v1_15_R1.MinecraftServer;
+import net.minecraft.server.v1_16_R1.MinecraftServer;
 
 /**
  * the event listener of the menu manager, 
