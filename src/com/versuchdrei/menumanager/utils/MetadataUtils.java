@@ -1,4 +1,4 @@
-package com.skitskurr.menumanager.utils;
+package com.versuchdrei.menumanager.utils;
 
 import java.util.List;
 import java.util.Optional;
@@ -7,6 +7,11 @@ import org.bukkit.metadata.MetadataValue;
 import org.bukkit.metadata.Metadatable;
 import org.bukkit.plugin.java.JavaPlugin;
 
+/**
+ * a util class for methods regarding metadata
+ * @author VersuchDrei
+ * @version 1.0
+ */
 public class MetadataUtils {
 	
 	@SuppressWarnings("unchecked")

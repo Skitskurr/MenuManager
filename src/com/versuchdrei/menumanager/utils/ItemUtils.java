@@ -1,4 +1,4 @@
-package com.skitskurr.menumanager.utils;
+package com.versuchdrei.menumanager.utils;
 
 import java.util.Arrays;
 import java.util.List;
@@ -10,6 +10,11 @@ import org.bukkit.inventory.ItemFlag;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.ItemMeta;
 
+/**
+ * a util class for methods regarding itemstacks
+ * @author VersuchDrei
+ * @version 1.0
+ */
 public class ItemUtils {
 	
 	public static ItemStack newItem(final Material type, final String name, final String... lore) {

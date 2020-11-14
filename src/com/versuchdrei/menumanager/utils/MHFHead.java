@@ -1,9 +1,14 @@
-package com.skitskurr.menumanager.utils;
+package com.versuchdrei.menumanager.utils;
 
 import org.bukkit.Material;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.SkullMeta;
 
+/**
+ * an enum that contains all heads from the MHF format
+ * @author VersuchDrei
+ * @version 1.0
+ */
 public enum MHFHead {
 	BLAZE("MHF_Blaze"),
 	CHICKEN("MHF_Chicken"),

@@ -1,4 +1,4 @@
-package com.skitskurr.menumanager;
+package com.versuchdrei.menumanager;
 
 import java.util.Optional;
 
@@ -8,7 +8,7 @@ import org.bukkit.scheduler.BukkitRunnable;
 
 /**
  * a class for all information involved by a text request
- * @author Skitskurr
+ * @author VersuchDrei
  * @version 1.0
  */
 public class TextRequest {

@@ -1,4 +1,4 @@
-package com.skitskurr.menumanager.implementations;
+package com.versuchdrei.menumanager.implementations;
 
 import java.util.function.Consumer;
 
@@ -7,7 +7,7 @@ import org.bukkit.inventory.ItemStack;
 
 /**
  * a YesNoMenu using Consumers for the yes/no clicks
- * @author Skitskurr
+ * @author VersuchDrei
  * @version 1.0
  */
 public class LambdaYesNoMenu extends YesNoMenu{

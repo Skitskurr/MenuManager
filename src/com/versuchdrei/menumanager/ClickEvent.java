@@ -1,4 +1,4 @@
-package com.skitskurr.menumanager;
+package com.versuchdrei.menumanager;
 
 import org.bukkit.entity.Player;
 import org.bukkit.event.inventory.ClickType;
@@ -6,7 +6,7 @@ import org.bukkit.inventory.ItemStack;
 
 /**
  * a wrapper class for the parameters of a click event
- * @author Skitskurr
+ * @author VersuchDrei
  * @version 1.0
  */
 public class ClickEvent {

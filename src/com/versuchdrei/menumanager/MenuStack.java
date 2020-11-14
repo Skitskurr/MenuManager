@@ -1,4 +1,4 @@
-package com.skitskurr.menumanager;
+package com.versuchdrei.menumanager;
 
 import java.util.Optional;
 
@@ -6,7 +6,7 @@ import org.bukkit.entity.Player;
 
 /**
  * a stack for all the previous menus a player has opened and their properties 
- * @author Skitskurr
+ * @author VersuchDrei
  * @version 1.0
  */
 public class MenuStack {

@@ -1,4 +1,4 @@
-package com.skitskurr.menumanager.implementations;
+package com.versuchdrei.menumanager.implementations;
 
 import java.util.Arrays;
 
@@ -8,13 +8,13 @@ import org.bukkit.entity.Player;
 import org.bukkit.inventory.Inventory;
 import org.bukkit.inventory.ItemStack;
 
-import com.skitskurr.menumanager.ClickEvent;
-import com.skitskurr.menumanager.Menu;
-import com.skitskurr.menumanager.utils.ItemUtils;
+import com.versuchdrei.menumanager.ClickEvent;
+import com.versuchdrei.menumanager.Menu;
+import com.versuchdrei.menumanager.utils.ItemUtils;
 
 /**
  * an example implementation of a menu that gives the player the options of yes and no
- * @author Skitskurr
+ * @author VersuchDrei
  * @version 1.0
  */
 public abstract class YesNoMenu extends Menu{

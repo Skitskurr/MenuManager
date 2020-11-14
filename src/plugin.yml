@@ -1,6 +1,6 @@
-main: com.skitskurr.menumanager.Main
+main: com.versuchdrei.menumanager.Main
 name: MenuManager
 version: 1.0
 description: A management plugin for menus.
 api-version: 1.16
-author: Skitskurr
+author: VersuchDrei

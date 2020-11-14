@@ -1,4 +1,4 @@
-package com.skitskurr.menumanager.implementations;
+package com.versuchdrei.menumanager.implementations;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -12,15 +12,15 @@ import org.bukkit.Material;
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.Inventory;
 
-import com.skitskurr.menumanager.ClickEvent;
-import com.skitskurr.menumanager.Menu;
-import com.skitskurr.menumanager.TextEvent;
-import com.skitskurr.menumanager.utils.ItemUtils;
-import com.skitskurr.menumanager.utils.MHFHead;
+import com.versuchdrei.menumanager.ClickEvent;
+import com.versuchdrei.menumanager.Menu;
+import com.versuchdrei.menumanager.TextEvent;
+import com.versuchdrei.menumanager.utils.ItemUtils;
+import com.versuchdrei.menumanager.utils.MHFHead;
 
 /**
  * an example implementation of a menu which allows a player to scroll through a list of menu items
- * @author Skitskurr
+ * @author VersuchDrei
  * @version 1.0
  */
 public abstract class ScrollableMenu extends Menu{

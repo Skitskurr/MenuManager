@@ -1,4 +1,4 @@
-package com.skitskurr.menumanager.implementations;
+package com.versuchdrei.menumanager.implementations;
 
 import java.util.List;
 
@@ -6,7 +6,7 @@ import org.bukkit.entity.Player;
 
 /**
  * a ScrollableMenu with a fixed set of items
- * @author Skitskurr
+ * @author VersuchDrei
  * @version 1.0
  */
 public class FixedScrollableMenu extends ScrollableMenu{

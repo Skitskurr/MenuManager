@@ -1,12 +1,17 @@
-package com.skitskurr.menumanager.implementations;
+package com.versuchdrei.menumanager.implementations;
 
 import org.bukkit.Chunk;
 import org.bukkit.Material;
 import org.bukkit.WorldBorder;
 import org.bukkit.entity.Player;
 
-import com.skitskurr.menumanager.utils.ItemUtils;
+import com.versuchdrei.menumanager.utils.ItemUtils;
 
+/**
+ * an example implementation of a NavigationMenu which displays the players current worlds slime chunks
+ * @author VersuchDrei
+ * @version 1.0
+ */
 public class SlimeMap extends NavigationMenu{
 
 	public SlimeMap() {

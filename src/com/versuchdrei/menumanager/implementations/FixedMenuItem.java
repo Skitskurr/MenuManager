@@ -1,14 +1,14 @@
-package com.skitskurr.menumanager.implementations;
+package com.versuchdrei.menumanager.implementations;
 
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.ItemMeta;
 
-import com.skitskurr.menumanager.utils.ItemUtils;
+import com.versuchdrei.menumanager.utils.ItemUtils;
 
 /**
  * a menu item with a fixed display ItemStack
- * @author Skitskurr
+ * @author VersuchDrei
  * @version 1.0
  */
 public class FixedMenuItem extends MenuItem{

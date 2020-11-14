@@ -1,10 +1,10 @@
-package com.skitskurr.menumanager;
+package com.versuchdrei.menumanager;
 
 import org.bukkit.entity.Player;
 
 /**
  * a wrapper class for parameters of a text event
- * @author Skitskurr
+ * @author VersuchDrei
  * @version 1.0
  */
 public class TextEvent {

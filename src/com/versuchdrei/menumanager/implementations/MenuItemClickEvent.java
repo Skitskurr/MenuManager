@@ -1,11 +1,11 @@
-package com.skitskurr.menumanager.implementations;
+package com.versuchdrei.menumanager.implementations;
 
 import org.bukkit.entity.Player;
 import org.bukkit.event.inventory.ClickType;
 
 /**
  * a wrapper class for the parameters of a click event
- * @author Skitskurr
+ * @author VersuchDrei
  * @version 1.0
  */
 public class MenuItemClickEvent {

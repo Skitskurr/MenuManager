@@ -1,4 +1,4 @@
-package com.skitskurr.menumanager;
+package com.versuchdrei.menumanager;
 
 import java.util.Optional;
 
@@ -15,14 +15,14 @@ import org.bukkit.event.player.AsyncPlayerChatEvent;
 import org.bukkit.event.player.PlayerCommandPreprocessEvent;
 import org.bukkit.event.player.PlayerQuitEvent;
 
-import com.skitskurr.menumanager.utils.MetadataUtils;
+import com.versuchdrei.menumanager.utils.MetadataUtils;
 
 import net.minecraft.server.v1_16_R1.MinecraftServer;
 
 /**
  * the event listener of the menu manager, 
  * handles certain player actions and informs their current menu
- * @author Skitskurr
+ * @author VersuchDrei
  * @version 1.0
  */
 public class EventListener implements Listener{

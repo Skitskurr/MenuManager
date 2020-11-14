@@ -1,4 +1,4 @@
-package com.skitskurr.menumanager;
+package com.versuchdrei.menumanager;
 
 import java.util.Optional;
 
@@ -6,11 +6,11 @@ import org.bukkit.Bukkit;
 import org.bukkit.entity.Player;
 import org.bukkit.plugin.java.JavaPlugin;
 
-import com.skitskurr.menumanager.utils.MetadataUtils;
+import com.versuchdrei.menumanager.utils.MetadataUtils;
 
 /**
  * the main plugin of the menu manager
- * @author Skitskurr
+ * @author VersuchDrei
  * @version 1.0
  */
 public class Main extends JavaPlugin{

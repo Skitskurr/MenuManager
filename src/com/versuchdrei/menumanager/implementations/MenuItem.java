@@ -1,11 +1,11 @@
-package com.skitskurr.menumanager.implementations;
+package com.versuchdrei.menumanager.implementations;
 
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.ItemStack;
 
 /**
  * a class describing an item in a menu
- * @author Skitskurr
+ * @author VersuchDrei
  * @version 1.0
  */
 public abstract class MenuItem {

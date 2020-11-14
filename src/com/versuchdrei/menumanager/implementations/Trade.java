@@ -1,4 +1,4 @@
-package com.skitskurr.menumanager.implementations;
+package com.versuchdrei.menumanager.implementations;
 
 import java.util.Arrays;
 import java.util.LinkedList;
@@ -12,11 +12,16 @@ import org.bukkit.inventory.Inventory;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.SkullMeta;
 
-import com.skitskurr.menumanager.ClickEvent;
-import com.skitskurr.menumanager.Menu;
-import com.skitskurr.menumanager.utils.ItemUtils;
-import com.skitskurr.menumanager.utils.PlayerUtils;
+import com.versuchdrei.menumanager.ClickEvent;
+import com.versuchdrei.menumanager.Menu;
+import com.versuchdrei.menumanager.utils.ItemUtils;
+import com.versuchdrei.menumanager.utils.PlayerUtils;
 
+/**
+ * an example implementation of a trade menu for a trade between two players
+ * @author VersuchDrei
+ * @version 1.0
+ */
 public class Trade {
 	
 	private static enum TradeStatus{

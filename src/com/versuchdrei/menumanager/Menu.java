@@ -1,4 +1,4 @@
-package com.skitskurr.menumanager;
+package com.versuchdrei.menumanager;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -8,11 +8,11 @@ import org.bukkit.entity.Player;
 import org.bukkit.inventory.Inventory;
 import org.bukkit.metadata.FixedMetadataValue;
 
-import com.skitskurr.menumanager.utils.MetadataUtils;
+import com.versuchdrei.menumanager.utils.MetadataUtils;
 
 /**
  * abstract superclass for all menus managed by the plugin
- * @author Skitskurr
+ * @author VersuchDrei
  * @version 1.0
  */
 public abstract class Menu {
