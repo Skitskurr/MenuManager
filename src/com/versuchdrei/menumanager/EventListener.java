@@ -17,11 +17,11 @@ import org.bukkit.event.player.PlayerQuitEvent;
 
 import com.versuchdrei.menumanager.utils.MetadataUtils;
 
-import net.minecraft.server.v1_16_R1.MinecraftServer;
+import net.minecraft.server.v1_16_R3.MinecraftServer;
 
 /**
  * the event listener of the menu manager, 
- * handles certain player actions and informs their current menu
+ * handles inventory and chat events and informs the players current menu
  * @author VersuchDrei
  * @version 1.0
  */
