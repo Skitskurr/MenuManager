@@ -15,7 +15,7 @@ public class InventoryOverflowEvent extends PlayerEvent implements Cancellable{
 	private List<ItemStack> items;
 	private boolean cancelled = false;
 	
-	InventoryOverflowEvent(final Player player, final List<ItemStack> items) {
+	public InventoryOverflowEvent(final Player player, final List<ItemStack> items) {
 		super(player);
 		
 		this.items = items;
